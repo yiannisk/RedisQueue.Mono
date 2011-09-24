@@ -1,0 +1,12 @@
+{
+	"RedisHost": "localhost",
+	"RedisPort": 6379,
+	"TaskRecycling": true,
+	"MaxTaskRetries": 0,
+	"PurgeSuccessfulTasks": true,
+	"Queue": "Tests",
+	"MonitorSleepIntervalInMilliseconds": "60000",
+	"RetriesToUnloadAppDomain": 3,
+	"WorkerAssemblyPath": ".",
+	"WorkerClassName": "Performer"
+}

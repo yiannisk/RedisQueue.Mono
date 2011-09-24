@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" ctype="Workspace" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Projects/RedisQueue.Mono/Client/RedisQueueClient.cs" ctype="Workbench">
+    <Files>
+      <File FileName="../Projects/RedisQueue.Mono/Properties/Settings.cs" Line="39" Column="2" />
+      <File FileName="../Projects/RedisQueue.Mono/Client/RedisQueueClient.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches ctype="PinnedWatchStore" />
+</Properties>
